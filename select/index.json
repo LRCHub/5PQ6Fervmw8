@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "ドライブ・マイ・イデア",
+  "base_artist": "Tempalay",
+  "createdAt": "2026-04-05T10:26:53.662508Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ドライブ・マイ・イデア",
+      "artist": "Tempalay",
+      "has_synced": true,
+      "path": "select/01_ドライブ・マイ・イデア_Tempalay.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ドライブ・マイ・イデア",
+      "artist": "Tempalay",
+      "has_synced": false,
+      "path": "select/pl_01_ドライブ・マイ・イデア_Tempalay.txt"
+    }
+  ]
+}
